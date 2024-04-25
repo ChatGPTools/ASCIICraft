@@ -38,16 +38,16 @@ ASCIICraft is a Python GUI tool that empowers you to create captivating ASCII ar
 ## Installation
 
 1. Clone the repository to your local machine:
-git clone https://github.com/yourusername/ASCIICraft.git
+```git clone https://github.com/ChatGPTools/ASCIICraft.git```
 
 2. Navigate to the project directory:
-cd ASCIICraft
+```cd ASCIICraft```
 
 3. Install the required dependencies:
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 4. Run the application:
-python ASCIICraft.py
+```python ASCIICraft.py```
 
 ## Usage
 
