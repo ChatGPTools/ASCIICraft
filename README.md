@@ -57,6 +57,10 @@ ASCIICraft is a Python GUI tool that empowers you to create captivating ASCII ar
 4. Copy the generated art to the clipboard with the "Copy" button.
 5. Save the ASCII art to a text file using the "Save" button.
 
+# GUI
+![image](https://github.com/ChatGPTools/ASCIICraft/assets/154993936/e08f5bb2-a113-49d7-bc79-b4146e3d304e)
+
+
 ## Example
 ```
 ______________________ ____________________
